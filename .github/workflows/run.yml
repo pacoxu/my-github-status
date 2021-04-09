@@ -9,8 +9,8 @@ on:
       - main
 
 env:
-  GITHUB_NAME: ThaddeusJiang
-  GITHUB_EMAIL: thaddeusjiang@gmail.com
+  GITHUB_NAME: pacoxu
+  GITHUB_EMAIL: roollingstone@gmail.com
   STARED_NUMBER: 10
 
 jobs:
