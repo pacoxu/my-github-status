@@ -1,8 +1,8 @@
 # My GitHub Status
 
-<img src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=ThaddeusJiang&show_icons=true&&&hide_title=true&count_private=true" alt="github status" />
+<img src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=pacoxu&show_icons=true&&&hide_title=true&count_private=true" alt="github status" />
 
-![Top Langs](https://github-readme-stats-1.yihong0618.vercel.app/api/top-langs/?username=ThaddeusJiang&layout=compact)
+![Top Langs](https://github-readme-stats-1.yihong0618.vercel.app/api/top-langs/?username=pacoxu&layout=compact)
 
 <!--START_SECTION:my_github-->
 ## The repos I created
