@@ -13,17 +13,6 @@
 |  3 | [calculators](https://github.com/pacoxu/calculators)           | 2014-01-05 | 2021-04-07 | Java                    |     1 |
 |  4 | [UIMessage](https://github.com/pacoxu/UIMessage)               | 2012-08-02 | 2021-04-07 | Java                    |     1 |
 |  5 | [stackoverflow](https://github.com/pacoxu/stackoverflow)       | 2014-10-09 | 2021-04-07 | md                      |     1 |
-|  6 | [pacorepo](https://github.com/pacoxu/pacorepo)                 | 2013-09-20 | 2021-04-07 | Java                    |     0 |
-|  7 | [imagesearch](https://github.com/pacoxu/imagesearch)           | 2013-01-16 | 2021-04-07 | md                      |     0 |
-|  8 | [learning-knative](https://github.com/pacoxu/learning-knative) | 2019-11-27 | 2021-04-07 | md                      |     0 |
-|  9 | [dubbo-example](https://github.com/pacoxu/dubbo-example)       | 2016-12-09 | 2021-04-07 | Java                    |     0 |
-| 10 | [pdfmanager](https://github.com/pacoxu/pdfmanager)             | 2012-09-14 | 2021-04-07 | Java                    |     0 |
-| 11 | [sample-wars](https://github.com/pacoxu/sample-wars)           | 2017-04-05 | 2021-04-07 | Dockerfile              |     0 |
-| 12 | [splunk](https://github.com/pacoxu/splunk)                     | 2017-07-21 | 2021-04-07 | Shell                   |     0 |
-| 13 | [docfoo](https://github.com/pacoxu/docfoo)                     | 2017-11-30 | 2021-04-07 | md                      |     0 |
-| 14 | [centos-maven](https://github.com/pacoxu/centos-maven)         | 2017-03-21 | 2021-04-07 | md                      |     0 |
-| 15 | [caddyfile-parser](https://github.com/pacoxu/caddyfile-parser) | 2019-06-04 | 2021-04-07 | md                      |     0 |
-| 16 | [auto_test_dfc](https://github.com/pacoxu/auto_test_dfc)       | 2013-09-22 | 2021-04-07 | md                      |     0 |
 
 ## The repos I contributed to
 | ID |                                REPO                                | FIRSTDATE  | LASTEDATE  |                                      PRCOUNT                                       |
