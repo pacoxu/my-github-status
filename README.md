@@ -28,36 +28,36 @@
 ## The repos I contributed to
 | ID |                                REPO                                 | FIRSTDATE  | LASTEDATE  |                                      PRCOUNT                                       |
 |----|---------------------------------------------------------------------|------------|------------|------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)              | 2021-01-08 | 2021-06-10 | [130](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)    |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)              | 2021-01-08 | 2021-06-16 | [130](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)    |
 |  2 | [website](https://github.com/kubernetes/website)                    | 2021-02-18 | 2021-05-20 | [18](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)        |
-|  3 | [test-infra](https://github.com/kubernetes/test-infra)              | 2021-02-25 | 2021-05-26 | [8](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)      |
-|  4 | [enhancements](https://github.com/kubernetes/enhancements)          | 2021-03-10 | 2021-05-11 | [8](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)    |
-|  5 | [k8s.io](https://github.com/kubernetes/k8s.io)                      | 2021-01-26 | 2021-06-01 | [6](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)          |
-|  6 | [containerd](https://github.com/containerd/containerd)              | 2021-03-15 | 2021-03-22 | [6](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)      |
+|  3 | [enhancements](https://github.com/kubernetes/enhancements)          | 2021-03-10 | 2021-05-11 | [8](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)    |
+|  4 | [test-infra](https://github.com/kubernetes/test-infra)              | 2021-02-25 | 2021-05-26 | [8](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)      |
+|  5 | [containerd](https://github.com/containerd/containerd)              | 2021-03-15 | 2021-03-22 | [6](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)      |
+|  6 | [k8s.io](https://github.com/kubernetes/k8s.io)                      | 2021-01-26 | 2021-06-01 | [6](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)          |
 |  7 | [dns](https://github.com/kubernetes/dns)                            | 2021-01-26 | 2021-03-04 | [4](https://github.com/kubernetes/dns/pulls?q=is%3Apr+author%3Apacoxu)             |
-|  8 | [cri-o](https://github.com/cri-o/cri-o)                             | 2021-02-08 | 2021-02-08 | [2](https://github.com/cri-o/cri-o/pulls?q=is%3Apr+author%3Apacoxu)                |
-|  9 | [kubeadm](https://github.com/kubernetes/kubeadm)                    | 2021-03-26 | 2021-03-26 | [2](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)         |
-| 10 | [kustomize](https://github.com/kubernetes-sigs/kustomize)           | 2021-06-07 | 2021-06-07 | [2](https://github.com/kubernetes-sigs/kustomize/pulls?q=is%3Apr+author%3Apacoxu)  |
-| 11 | [kind](https://github.com/kubernetes-sigs/kind)                     | 2021-02-07 | 2021-02-07 | [2](https://github.com/kubernetes-sigs/kind/pulls?q=is%3Apr+author%3Apacoxu)       |
-| 12 | [corefile-migration](https://github.com/coredns/corefile-migration) | 2021-06-01 | 2021-06-01 | [2](https://github.com/coredns/corefile-migration/pulls?q=is%3Apr+author%3Apacoxu) |
-| 13 | [org](https://github.com/kubernetes/org)                            | 2021-06-09 | 2021-06-09 | [2](https://github.com/kubernetes/org/pulls?q=is%3Apr+author%3Apacoxu)             |
+|  8 | [kubeadm](https://github.com/kubernetes/kubeadm)                    | 2021-03-26 | 2021-03-26 | [2](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)         |
+|  9 | [kind](https://github.com/kubernetes-sigs/kind)                     | 2021-02-07 | 2021-02-07 | [2](https://github.com/kubernetes-sigs/kind/pulls?q=is%3Apr+author%3Apacoxu)       |
+| 10 | [istio.io](https://github.com/istio/istio.io)                       | 2021-03-12 | 2021-03-12 | [2](https://github.com/istio/istio.io/pulls?q=is%3Apr+author%3Apacoxu)             |
+| 11 | [cri-o](https://github.com/cri-o/cri-o)                             | 2021-02-08 | 2021-02-08 | [2](https://github.com/cri-o/cri-o/pulls?q=is%3Apr+author%3Apacoxu)                |
+| 12 | [etcd](https://github.com/etcd-io/etcd)                             | 2021-01-26 | 2021-01-26 | [2](https://github.com/etcd-io/etcd/pulls?q=is%3Apr+author%3Apacoxu)               |
+| 13 | [kustomize](https://github.com/kubernetes-sigs/kustomize)           | 2021-06-07 | 2021-06-07 | [2](https://github.com/kubernetes-sigs/kustomize/pulls?q=is%3Apr+author%3Apacoxu)  |
 | 14 | [coredns](https://github.com/coredns/coredns)                       | 2021-03-04 | 2021-03-04 | [2](https://github.com/coredns/coredns/pulls?q=is%3Apr+author%3Apacoxu)            |
 | 15 | [common](https://github.com/containers/common)                      | 2021-02-08 | 2021-02-08 | [2](https://github.com/containers/common/pulls?q=is%3Apr+author%3Apacoxu)          |
-| 16 | [etcd](https://github.com/etcd-io/etcd)                             | 2021-01-26 | 2021-01-26 | [2](https://github.com/etcd-io/etcd/pulls?q=is%3Apr+author%3Apacoxu)               |
-| 17 | [istio.io](https://github.com/istio/istio.io)                       | 2021-03-12 | 2021-03-12 | [2](https://github.com/istio/istio.io/pulls?q=is%3Apr+author%3Apacoxu)             |
+| 16 | [corefile-migration](https://github.com/coredns/corefile-migration) | 2021-06-01 | 2021-06-01 | [2](https://github.com/coredns/corefile-migration/pulls?q=is%3Apr+author%3Apacoxu) |
+| 17 | [org](https://github.com/kubernetes/org)                            | 2021-06-09 | 2021-06-09 | [2](https://github.com/kubernetes/org/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [bridge](https://github.com/wzshiming/bridge)                                       | 2021-02-22 | Go         | 2021-06-13   |
-|  2 | [pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart)                    | 2020-10-30 | Shell      | 2021-06-15   |
-|  3 | [kubernetes-workshops](https://github.com/GoogleCloudPlatform/kubernetes-workshops) | 2017-06-08 | Go         | 2021-06-07   |
-|  4 | [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)               | 2019-04-19 | Go         | 2021-06-15   |
-|  5 | [knative-tutorial](https://github.com/meteatamel/knative-tutorial)                  | 2019-10-07 | C#         | 2021-06-11   |
-|  6 | [PythonSkillTree](https://github.com/w4n9H/PythonSkillTree)                         | 2019-06-05 | Python     | 2021-04-27   |
-|  7 | [docker-dnsmasq](https://github.com/jpillora/docker-dnsmasq)                        | 2017-11-27 | Dockerfile | 2021-06-10   |
-|  8 | [CNTK](https://github.com/microsoft/CNTK)                                           | 2016-01-27 | C++        | 2021-06-14   |
-|  9 | [talk-knative-vs-openfaas](https://github.com/carsonoid/talk-knative-vs-openfaas)   | 2019-10-17 | md         | 2020-10-03   |
-| 10 | [multi-tenancy](https://github.com/kubernetes-sigs/multi-tenancy)                   | 2020-08-17 | Go         | 2021-06-14   |
+| ID |                                                REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kube-ops-view](https://github.com/hjacobs/kube-ops-view)                                          | 2020-11-13 | JavaScript | 2021-06-14   |
+|  2 | [getting-started-with-knative](https://github.com/servicemesher/getting-started-with-knative)      | 2019-11-27 | Makefile   | 2021-06-15   |
+|  3 | [kubernetes-issues-solution](https://github.com/AliyunContainerService/kubernetes-issues-solution) | 2019-04-25 | Shell      | 2020-07-24   |
+|  4 | [node_note](https://github.com/lemonhall/node_note)                                                | 2016-11-22 | md         | 2018-06-12   |
+|  5 | [oniguruma](https://github.com/kkos/oniguruma)                                                     | 2019-03-19 | C          | 2021-06-14   |
+|  6 | [ginkgo](https://github.com/onsi/ginkgo)                                                           | 2020-10-09 | Go         | 2021-06-16   |
+|  7 | [thanos](https://github.com/thanos-io/thanos)                                                      | 2021-04-19 | Go         | 2021-06-16   |
+|  8 | [harbor](https://github.com/goharbor/harbor)                                                       | 2016-08-25 | Go         | 2021-06-16   |
+|  9 | [SoccerAnalysis](https://github.com/joshuamataaraya/SoccerAnalysis)                                | 2016-09-23 | HTML       | 2017-11-06   |
+| 10 | [cilium](https://github.com/cilium/cilium)                                                         | 2019-05-13 | Go         | 2021-06-16   |
 
 <!--END_SECTION:my_github-->
