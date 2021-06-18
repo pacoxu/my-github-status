@@ -35,29 +35,29 @@
 |  5 | [containerd](https://github.com/containerd/containerd)              | 2021-03-15 | 2021-03-22 | [6](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  6 | [k8s.io](https://github.com/kubernetes/k8s.io)                      | 2021-01-26 | 2021-06-01 | [6](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)          |
 |  7 | [dns](https://github.com/kubernetes/dns)                            | 2021-01-26 | 2021-03-04 | [4](https://github.com/kubernetes/dns/pulls?q=is%3Apr+author%3Apacoxu)             |
-|  8 | [kubeadm](https://github.com/kubernetes/kubeadm)                    | 2021-03-26 | 2021-03-26 | [2](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)         |
-|  9 | [kind](https://github.com/kubernetes-sigs/kind)                     | 2021-02-07 | 2021-02-07 | [2](https://github.com/kubernetes-sigs/kind/pulls?q=is%3Apr+author%3Apacoxu)       |
-| 10 | [istio.io](https://github.com/istio/istio.io)                       | 2021-03-12 | 2021-03-12 | [2](https://github.com/istio/istio.io/pulls?q=is%3Apr+author%3Apacoxu)             |
-| 11 | [cri-o](https://github.com/cri-o/cri-o)                             | 2021-02-08 | 2021-02-08 | [2](https://github.com/cri-o/cri-o/pulls?q=is%3Apr+author%3Apacoxu)                |
-| 12 | [etcd](https://github.com/etcd-io/etcd)                             | 2021-01-26 | 2021-01-26 | [2](https://github.com/etcd-io/etcd/pulls?q=is%3Apr+author%3Apacoxu)               |
+|  8 | [istio.io](https://github.com/istio/istio.io)                       | 2021-03-12 | 2021-03-12 | [2](https://github.com/istio/istio.io/pulls?q=is%3Apr+author%3Apacoxu)             |
+|  9 | [corefile-migration](https://github.com/coredns/corefile-migration) | 2021-06-01 | 2021-06-01 | [2](https://github.com/coredns/corefile-migration/pulls?q=is%3Apr+author%3Apacoxu) |
+| 10 | [etcd](https://github.com/etcd-io/etcd)                             | 2021-01-26 | 2021-01-26 | [2](https://github.com/etcd-io/etcd/pulls?q=is%3Apr+author%3Apacoxu)               |
+| 11 | [common](https://github.com/containers/common)                      | 2021-02-08 | 2021-02-08 | [2](https://github.com/containers/common/pulls?q=is%3Apr+author%3Apacoxu)          |
+| 12 | [org](https://github.com/kubernetes/org)                            | 2021-06-09 | 2021-06-09 | [2](https://github.com/kubernetes/org/pulls?q=is%3Apr+author%3Apacoxu)             |
 | 13 | [kustomize](https://github.com/kubernetes-sigs/kustomize)           | 2021-06-07 | 2021-06-07 | [2](https://github.com/kubernetes-sigs/kustomize/pulls?q=is%3Apr+author%3Apacoxu)  |
 | 14 | [coredns](https://github.com/coredns/coredns)                       | 2021-03-04 | 2021-03-04 | [2](https://github.com/coredns/coredns/pulls?q=is%3Apr+author%3Apacoxu)            |
-| 15 | [common](https://github.com/containers/common)                      | 2021-02-08 | 2021-02-08 | [2](https://github.com/containers/common/pulls?q=is%3Apr+author%3Apacoxu)          |
-| 16 | [corefile-migration](https://github.com/coredns/corefile-migration) | 2021-06-01 | 2021-06-01 | [2](https://github.com/coredns/corefile-migration/pulls?q=is%3Apr+author%3Apacoxu) |
-| 17 | [org](https://github.com/kubernetes/org)                            | 2021-06-09 | 2021-06-09 | [2](https://github.com/kubernetes/org/pulls?q=is%3Apr+author%3Apacoxu)             |
+| 15 | [kubeadm](https://github.com/kubernetes/kubeadm)                    | 2021-03-26 | 2021-03-26 | [2](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)         |
+| 16 | [cri-o](https://github.com/cri-o/cri-o)                             | 2021-02-08 | 2021-02-08 | [2](https://github.com/cri-o/cri-o/pulls?q=is%3Apr+author%3Apacoxu)                |
+| 17 | [kind](https://github.com/kubernetes-sigs/kind)                     | 2021-02-07 | 2021-02-07 | [2](https://github.com/kubernetes-sigs/kind/pulls?q=is%3Apr+author%3Apacoxu)       |
 
 ## The repos I stared (random 10)
-| ID |                                                REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kube-ops-view](https://github.com/hjacobs/kube-ops-view)                                          | 2020-11-13 | JavaScript | 2021-06-14   |
-|  2 | [getting-started-with-knative](https://github.com/servicemesher/getting-started-with-knative)      | 2019-11-27 | Makefile   | 2021-06-15   |
-|  3 | [kubernetes-issues-solution](https://github.com/AliyunContainerService/kubernetes-issues-solution) | 2019-04-25 | Shell      | 2020-07-24   |
-|  4 | [node_note](https://github.com/lemonhall/node_note)                                                | 2016-11-22 | md         | 2018-06-12   |
-|  5 | [oniguruma](https://github.com/kkos/oniguruma)                                                     | 2019-03-19 | C          | 2021-06-14   |
-|  6 | [ginkgo](https://github.com/onsi/ginkgo)                                                           | 2020-10-09 | Go         | 2021-06-16   |
-|  7 | [thanos](https://github.com/thanos-io/thanos)                                                      | 2021-04-19 | Go         | 2021-06-16   |
-|  8 | [harbor](https://github.com/goharbor/harbor)                                                       | 2016-08-25 | Go         | 2021-06-16   |
-|  9 | [SoccerAnalysis](https://github.com/joshuamataaraya/SoccerAnalysis)                                | 2016-09-23 | HTML       | 2017-11-06   |
-| 10 | [cilium](https://github.com/cilium/cilium)                                                         | 2019-05-13 | Go         | 2021-06-16   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [bridge](https://github.com/wzshiming/bridge)                                      | 2021-02-22 | Go       | 2021-06-13   |
+|  2 | [Kyodai](https://github.com/andever/Kyodai)                                        | 2014-10-15 | Java     | 2018-03-03   |
+|  3 | [makisu](https://github.com/uber-archive/makisu)                                   | 2019-03-14 | Go       | 2021-06-16   |
+|  4 | [mount-utils](https://github.com/kubernetes/mount-utils)                           | 2021-02-19 | Go       | 2021-06-15   |
+|  5 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-02-28 | CSS      | 2021-06-17   |
+|  6 | [elasticsearch](https://github.com/elastic/elasticsearch)                          | 2012-07-20 | Java     | 2021-06-18   |
+|  7 | [nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler)                  | 2020-09-16 | Go       | 2021-06-17   |
+|  8 | [life](https://github.com/gawen/life)                                              | 2020-04-08 | md       | 2021-01-17   |
+|  9 | [metrics-server](https://github.com/kubernetes-sigs/metrics-server)                | 2019-03-19 | Go       | 2021-06-17   |
+| 10 | [compose](https://github.com/docker/compose)                                       | 2021-02-20 | Python   | 2021-06-17   |
 
 <!--END_SECTION:my_github-->
