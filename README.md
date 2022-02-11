@@ -38,38 +38,38 @@
 |  7 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror)          | 2021-09-13 | 2021-11-23 | [4](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  8 | [containerd](https://github.com/containerd/containerd)                          | 2021-03-15 | 2021-03-22 | [3](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)                  |
 |  9 | [dns](https://github.com/kubernetes/dns)                                        | 2020-11-11 | 2021-03-04 | [3](https://github.com/kubernetes/dns/pulls?q=is%3Apr+author%3Apacoxu)                         |
-| 10 | [corefile-migration](https://github.com/coredns/corefile-migration)             | 2021-06-01 | 2021-06-01 | [2](https://github.com/coredns/corefile-migration/pulls?q=is%3Apr+author%3Apacoxu)             |
-| 11 | [org](https://github.com/kubernetes/org)                                        | 2021-06-09 | 2021-06-09 | [2](https://github.com/kubernetes/org/pulls?q=is%3Apr+author%3Apacoxu)                         |
-| 12 | [azure-docs](https://github.com/MicrosoftDocs/azure-docs)                       | 2021-04-15 | 2021-04-15 | [2](https://github.com/MicrosoftDocs/azure-docs/pulls?q=is%3Apr+author%3Apacoxu)               |
-| 13 | [kustomize](https://github.com/kubernetes-sigs/kustomize)                       | 2021-06-07 | 2021-06-07 | [2](https://github.com/kubernetes-sigs/kustomize/pulls?q=is%3Apr+author%3Apacoxu)              |
-| 14 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)                     | 2021-12-30 | 2021-12-30 | [2](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)                 |
-| 15 | [k8s-cloud-provider](https://github.com/GoogleCloudPlatform/k8s-cloud-provider) | 2021-06-21 | 2021-06-21 | [2](https://github.com/GoogleCloudPlatform/k8s-cloud-provider/pulls?q=is%3Apr+author%3Apacoxu) |
-| 16 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                      | 2021-07-07 | 2021-07-07 | [2](https://github.com/yihong0618/GitHubPoster/pulls?q=is%3Apr+author%3Apacoxu)                |
-| 17 | [k8s-stackdriver](https://github.com/GoogleCloudPlatform/k8s-stackdriver)       | 2021-06-21 | 2021-06-21 | [2](https://github.com/GoogleCloudPlatform/k8s-stackdriver/pulls?q=is%3Apr+author%3Apacoxu)    |
-| 18 | [docker.github.io](https://github.com/docker/docker.github.io)                  | 2020-12-10 | 2020-12-10 | [1](https://github.com/docker/docker.github.io/pulls?q=is%3Apr+author%3Apacoxu)                |
-| 19 | [kubemove](https://github.com/kubemove/kubemove)                                | 2020-04-28 | 2020-04-28 | [1](https://github.com/kubemove/kubemove/pulls?q=is%3Apr+author%3Apacoxu)                      |
+| 10 | [azure-docs](https://github.com/MicrosoftDocs/azure-docs)                       | 2021-04-15 | 2021-04-15 | [2](https://github.com/MicrosoftDocs/azure-docs/pulls?q=is%3Apr+author%3Apacoxu)               |
+| 11 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)                     | 2021-12-30 | 2021-12-30 | [2](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)                 |
+| 12 | [k8s-cloud-provider](https://github.com/GoogleCloudPlatform/k8s-cloud-provider) | 2021-06-21 | 2021-06-21 | [2](https://github.com/GoogleCloudPlatform/k8s-cloud-provider/pulls?q=is%3Apr+author%3Apacoxu) |
+| 13 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                      | 2021-07-07 | 2021-07-07 | [2](https://github.com/yihong0618/GitHubPoster/pulls?q=is%3Apr+author%3Apacoxu)                |
+| 14 | [k8s-stackdriver](https://github.com/GoogleCloudPlatform/k8s-stackdriver)       | 2021-06-21 | 2021-06-21 | [2](https://github.com/GoogleCloudPlatform/k8s-stackdriver/pulls?q=is%3Apr+author%3Apacoxu)    |
+| 15 | [org](https://github.com/kubernetes/org)                                        | 2021-06-09 | 2021-06-09 | [2](https://github.com/kubernetes/org/pulls?q=is%3Apr+author%3Apacoxu)                         |
+| 16 | [corefile-migration](https://github.com/coredns/corefile-migration)             | 2021-06-01 | 2021-06-01 | [2](https://github.com/coredns/corefile-migration/pulls?q=is%3Apr+author%3Apacoxu)             |
+| 17 | [kustomize](https://github.com/kubernetes-sigs/kustomize)                       | 2021-06-07 | 2021-06-07 | [2](https://github.com/kubernetes-sigs/kustomize/pulls?q=is%3Apr+author%3Apacoxu)              |
+| 18 | [cri-o](https://github.com/cri-o/cri-o)                                         | 2021-02-08 | 2021-02-08 | [1](https://github.com/cri-o/cri-o/pulls?q=is%3Apr+author%3Apacoxu)                            |
+| 19 | [istio.io](https://github.com/istio/istio.io)                                   | 2021-03-12 | 2021-03-12 | [1](https://github.com/istio/istio.io/pulls?q=is%3Apr+author%3Apacoxu)                         |
 | 20 | [community](https://github.com/kubernetes/community)                            | 2020-12-16 | 2020-12-16 | [1](https://github.com/kubernetes/community/pulls?q=is%3Apr+author%3Apacoxu)                   |
-| 21 | [kind](https://github.com/kubernetes-sigs/kind)                                 | 2021-02-07 | 2021-02-07 | [1](https://github.com/kubernetes-sigs/kind/pulls?q=is%3Apr+author%3Apacoxu)                   |
-| 22 | [coredns](https://github.com/coredns/coredns)                                   | 2021-03-04 | 2021-03-04 | [1](https://github.com/coredns/coredns/pulls?q=is%3Apr+author%3Apacoxu)                        |
-| 23 | [istio.io](https://github.com/istio/istio.io)                                   | 2021-03-12 | 2021-03-12 | [1](https://github.com/istio/istio.io/pulls?q=is%3Apr+author%3Apacoxu)                         |
-| 24 | [kubefed](https://github.com/kubernetes-sigs/kubefed)                           | 2020-05-11 | 2020-05-11 | [1](https://github.com/kubernetes-sigs/kubefed/pulls?q=is%3Apr+author%3Apacoxu)                |
-| 25 | [cri-o](https://github.com/cri-o/cri-o)                                         | 2021-02-08 | 2021-02-08 | [1](https://github.com/cri-o/cri-o/pulls?q=is%3Apr+author%3Apacoxu)                            |
-| 26 | [tgik](https://github.com/vmware-tanzu/tgik)                                    | 2020-09-30 | 2020-09-30 | [1](https://github.com/vmware-tanzu/tgik/pulls?q=is%3Apr+author%3Apacoxu)                      |
-| 27 | [common](https://github.com/containers/common)                                  | 2021-02-08 | 2021-02-08 | [1](https://github.com/containers/common/pulls?q=is%3Apr+author%3Apacoxu)                      |
-| 28 | [etcd](https://github.com/etcd-io/etcd)                                         | 2021-01-26 | 2021-01-26 | [1](https://github.com/etcd-io/etcd/pulls?q=is%3Apr+author%3Apacoxu)                           |
+| 21 | [etcd](https://github.com/etcd-io/etcd)                                         | 2021-01-26 | 2021-01-26 | [1](https://github.com/etcd-io/etcd/pulls?q=is%3Apr+author%3Apacoxu)                           |
+| 22 | [kubefed](https://github.com/kubernetes-sigs/kubefed)                           | 2020-05-11 | 2020-05-11 | [1](https://github.com/kubernetes-sigs/kubefed/pulls?q=is%3Apr+author%3Apacoxu)                |
+| 23 | [coredns](https://github.com/coredns/coredns)                                   | 2021-03-04 | 2021-03-04 | [1](https://github.com/coredns/coredns/pulls?q=is%3Apr+author%3Apacoxu)                        |
+| 24 | [tgik](https://github.com/vmware-tanzu/tgik)                                    | 2020-09-30 | 2020-09-30 | [1](https://github.com/vmware-tanzu/tgik/pulls?q=is%3Apr+author%3Apacoxu)                      |
+| 25 | [common](https://github.com/containers/common)                                  | 2021-02-08 | 2021-02-08 | [1](https://github.com/containers/common/pulls?q=is%3Apr+author%3Apacoxu)                      |
+| 26 | [docker.github.io](https://github.com/docker/docker.github.io)                  | 2020-12-10 | 2020-12-10 | [1](https://github.com/docker/docker.github.io/pulls?q=is%3Apr+author%3Apacoxu)                |
+| 27 | [kubemove](https://github.com/kubemove/kubemove)                                | 2020-04-28 | 2020-04-28 | [1](https://github.com/kubemove/kubemove/pulls?q=is%3Apr+author%3Apacoxu)                      |
+| 28 | [kind](https://github.com/kubernetes-sigs/kind)                                 | 2021-02-07 | 2021-02-07 | [1](https://github.com/kubernetes-sigs/kind/pulls?q=is%3Apr+author%3Apacoxu)                   |
 
 ## The repos I stared (random 10)
-| ID |                                          REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) | 2021-03-17 | Go         | 2022-02-09   |
-|  2 | [dce-client](https://github.com/dceplugins/dce-client)                                  | 2017-09-04 | Python     | 2017-09-04   |
-|  3 | [contrib](https://github.com/kubernetes-retired/contrib)                                | 2018-09-29 | Go         | 2022-02-07   |
-|  4 | [kubeless](https://github.com/vmware-archive/kubeless)                                  | 2019-09-30 | Go         | 2022-02-09   |
-|  5 | [kubectl-trace](https://github.com/iovisor/kubectl-trace)                               | 2021-01-19 | Go         | 2022-02-09   |
-|  6 | [ChineseNgoKnowledgeGraph](https://github.com/liyi193328/ChineseNgoKnowledgeGraph)      | 2017-11-03 | Python     | 2021-08-06   |
-|  7 | [CNTK](https://github.com/microsoft/CNTK)                                               | 2016-01-27 | C++        | 2022-02-09   |
-|  8 | [openshift-windows](https://github.com/openshift/openshift-windows)                     | 2018-12-26 | PowerShell | 2022-01-04   |
-|  9 | [merbridge](https://github.com/merbridge/merbridge)                                     | 2022-01-17 | C          | 2022-02-09   |
-| 10 | [parse-prometheus-text-format](https://github.com/yunyu/parse-prometheus-text-format)   | 2019-01-09 | JavaScript | 2022-01-08   |
+| ID |                                                       REPO                                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [continuous-deployment-on-kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes) | 2017-06-08 | Shell      | 2022-02-06   |
+|  2 | [java-in-docker](https://github.com/springjk/java-in-docker)                                                      | 2017-02-27 | Java       | 2021-12-28   |
+|  3 | [openshift-docs](https://github.com/openshift/openshift-docs)                                                     | 2017-06-06 | HTML       | 2022-02-05   |
+|  4 | [daochain](https://github.com/DaoCloud/daochain)                                                                  | 2016-12-09 | JavaScript | 2021-11-12   |
+|  5 | [foxtrick](https://github.com/minj/foxtrick)                                                                      | 2016-09-23 | JavaScript | 2022-02-03   |
+|  6 | [piraeus](https://github.com/piraeusdatastore/piraeus)                                                            | 2021-03-24 | Shell      | 2022-02-02   |
+|  7 | [nerdctl](https://github.com/containerd/nerdctl)                                                                  | 2021-03-17 | Go         | 2022-02-10   |
+|  8 | [daocloud-docs](https://github.com/DaoCloud/daocloud-docs)                                                        | 2016-04-02 | CSS        | 2021-01-28   |
+|  9 | [oneinfra](https://github.com/oneinfra/oneinfra)                                                                  | 2020-07-28 | Go         | 2022-01-02   |
+| 10 | [cluster-api-bootstrap-provider-talos](https://github.com/talos-systems/cluster-api-bootstrap-provider-talos)     | 2021-08-07 | Go         | 2022-02-08   |
 
 <!--END_SECTION:my_github-->
